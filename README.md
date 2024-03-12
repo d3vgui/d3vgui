@@ -2,9 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gu1d3v/)
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=d3vgui&show_icons=true&theme=dracula"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vgui&layout=compact&theme=dracula"/>
+<div style="display: flex;">
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=d3vgui&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vgui&layout=compact&theme=dracula"/>
 </div>
 
 ## Tecnologias que uso no meu dia
