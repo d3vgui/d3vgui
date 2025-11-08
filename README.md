@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Guilherme, muito prazer! 👋🧑‍💻
-
 **`Desenvolvedor Fullstack`**
-
 <hr>
 💡 Sou um Desenvolvedor Full-Stack em constante evolução, impulsionado pela paixão por tecnologia e inovação. Meu objetivo é transformar ideias em soluções digitais robustas e de alto desempenho.
 <br>
@@ -12,7 +10,7 @@ Possuo experiência sólida na construção de interfaces modernas, responsivas 
 Veja meu LinkedIn 👇
 <br>
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gu1d3v/)
+<a href="https://www.linkedin.com/in/gu1d3v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <br>
 <div style="display: flex;">
@@ -23,7 +21,7 @@ Veja meu LinkedIn 👇
 
 ## Linguagens e Tecnologias 💻🎯
 
-<div style="display: flex; gap: 15px"><br/>
+<div style="display: flex; gap: 25px"><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style="height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  style="height: 40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="height: 40px"/>
@@ -34,9 +32,7 @@ Veja meu LinkedIn 👇
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="height: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="height: 40px"/>
 </div>
-
-
-
+<br>
+<br>
